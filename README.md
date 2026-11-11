@@ -1,2 +1,2 @@
 # image2ASCII
-Python program that turns images into ASCII art WIP
+TUI Python program that turns images into ASCII art WIP
